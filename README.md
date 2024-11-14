@@ -1,3 +1,6 @@
+
+WARNING: This is an unfinished / not fully tested Minifilter driver POC, use on your own risk!
+
 # Install Notes
 
 
